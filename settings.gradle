@@ -1,0 +1,3 @@
+rootProject.name = "Network Bandwidth detection"
+include ':app'
+include ':myNetworkLibrary'
